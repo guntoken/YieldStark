@@ -194,6 +194,13 @@ Detailed documentation is available in the `docs` directory:
    - Risk management
    - Portfolio optimization
 
+## 📢 Stay Connected
+Follow us for updates, insights, and behind-the-scenes development:
+
+🧵 X Thread: [View our hackathon Prototype thread on X](https://x.com/YieldStark/status/1926605427598397808)
+
+🐦 Follow us on X: [@YieldStark](https://x.com/YieldStark)
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
