@@ -33,7 +33,7 @@
     "@react-three/drei": "^10.0.8",
     "@react-three/fiber": "latest",
     "@starknet-react/core": "latest",
-    "next": "^15.3.2",
+    "next": "^15.5.28",
     "postcss": "^8.4.38",
     "react": "18",
     "react-dom": "18",
